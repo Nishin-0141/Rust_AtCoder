@@ -22,7 +22,7 @@ fn main() {
                 break;
             }
         }
-        if check && cnt == 0{
+        if check && cnt == 0 {
             ans.push(letter);
         }
     }
